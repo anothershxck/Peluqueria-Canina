@@ -1,0 +1,2 @@
+Aplicación de muestra que realizamos en equipo durante el primer cuatrimestre del curso de Programador.
+En esta empleamos Java POO y Java Swing.
